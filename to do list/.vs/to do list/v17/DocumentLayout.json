@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ImageUniqualizer\\to do list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|d:\\projects\\imageuniqualizer\\to do list\\src\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|solutionrelative:src\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|d:\\projects\\imageuniqualizer\\to do list\\src\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|solutionrelative:src\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|d:\\projects\\imageuniqualizer\\to do list\\src\\todolist\\todolist.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|solutionrelative:src\\todolist\\todolist.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|d:\\projects\\imageuniqualizer\\to do list\\src\\repositries\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|solutionrelative:src\\repositries\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|d:\\projects\\imageuniqualizer\\to do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F177C1-78BE-46AA-B2A8-59A4311A79F6}|to do list.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ITaskService.cs",
+              "ToolTip": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Services\\ITaskService.cs",
+              "RelativeToolTip": "src\\Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:15:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "src\\Models\\MyTask.cs",
+              "ToolTip": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Models\\MyTask.cs",
+              "RelativeToolTip": "src\\Models\\MyTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:56:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoList.json",
+              "DocumentMoniker": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\ToDoList\\ToDoList.json",
+              "RelativeDocumentMoniker": "src\\ToDoList\\ToDoList.json",
+              "ToolTip": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\ToDoList\\ToDoList.json",
+              "RelativeToolTip": "src\\ToDoList\\ToDoList.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T18:54:32.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Repositries\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "src\\Repositries\\ITaskRepository.cs",
+              "ToolTip": "D:\\Projects\\ImageUniqualizer\\to do list\\src\\Repositries\\ITaskRepository.cs",
+              "RelativeToolTip": "src\\Repositries\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:52:55.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ImageUniqualizer\\to do list\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\ImageUniqualizer\\to do list\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:47:04.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
